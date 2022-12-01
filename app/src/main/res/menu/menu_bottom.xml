@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="@string/notess"
+        android:icon="@drawable/ic_baseline_edit_note_24"
+        android:id="@+id/noteFragment"/>
+
+
+    <item android:title="@string/contactss"
+        android:icon="@drawable/ic_baseline_contact_phone_24"
+        android:id="@+id/contactFragment"/>
+
+    <item android:title="@string/images"
+        android:icon="@drawable/ic_baseline_image_24"
+        android:id="@+id/profileFragment"/>
+</menu>
